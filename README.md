@@ -1,4 +1,4 @@
-# Programy U¿ytkowe
+# Programy U¿ytkowe - Dev
 # Autor: Adam Stepañczuk
 ## Opis projektu
 
